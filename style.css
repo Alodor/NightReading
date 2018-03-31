@@ -32,3 +32,25 @@ body {
     cursor: pointer;
 }
 /* /Navbar */
+
+/* Footer */
+#footer {
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    background-color: #566573;
+}
+
+#footer p {
+    color: #f8f9f9;
+}
+
+#footer a {
+    text-decoration: none;
+    color: #f8f9f9;
+}
+/* /Footer */
